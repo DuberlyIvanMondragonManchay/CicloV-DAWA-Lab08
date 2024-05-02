@@ -1,0 +1,20 @@
+{
+  "name": "ciclov-dawa-lab08",
+  "version": "1.0.0",
+  "description": "#### STACK – MEEN #### (MySQL – Equelize – Express - Nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Duberly Ivan Mondragón Manchay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.9.7",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.3"
+  }
+}
